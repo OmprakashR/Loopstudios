@@ -38,7 +38,7 @@ Use this section to recap over some of your major learnings while working throug
  
 ##   urls
 
-- Website - [Loopstudios](https://pagespeed.web.dev/analysis/https-omprakashr-github-io-Loopstudios/rkfys28j6o?form_factor=mobile)
+- Website - [Loopstudios](https://omprakashr.github.io/Loopstudios/)
 - Code - [Git url](https://github.com/OmprakashR/Loopstudios.git)
 - Score [pagespeed](https://pagespeed.web.dev/analysis/https-omprakashr-github-io-Loopstudios/rkfys28j6o?form_factor=mobile)
  

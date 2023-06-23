@@ -19,12 +19,6 @@ Users should be able to:
 
 ### Screenshot
  
-    
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 
@@ -42,7 +36,7 @@ Users should be able to:
 Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
   
  
-## Dmmo urls
+##   urls
 
 - Website - [Loopstudios](https://pagespeed.web.dev/analysis/https-omprakashr-github-io-Loopstudios/rkfys28j6o?form_factor=mobile)
 - Code - [Git url](https://github.com/OmprakashR/Loopstudios.git)

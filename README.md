@@ -44,8 +44,9 @@ Use this section to recap over some of your major learnings while working throug
  
 ## Dmmo urls
 
-- Website - [Loopstudios](https://www.your-site.com)
+- Website - [Loopstudios](https://pagespeed.web.dev/analysis/https-omprakashr-github-io-Loopstudios/rkfys28j6o?form_factor=mobile)
 - Code - [Git url](https://github.com/OmprakashR/Loopstudios.git)
+- Score [pagespeed](https://pagespeed.web.dev/analysis/https-omprakashr-github-io-Loopstudios/rkfys28j6o?form_factor=mobile)
  
  
 ## Acknowledgments
